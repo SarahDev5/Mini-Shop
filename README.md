@@ -1,0 +1,1 @@
+This code is a mini shopping cart system. It displays products with images, lets users select available ones via checkboxes, and calculates the total cost of selected items. It’s a simple but effective example of combining JavaScript arrays, DOM manipulation, and event-driven logic.
